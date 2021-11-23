@@ -1,0 +1,3 @@
+include ':glideutil'
+include ':app'
+rootProject.name = "LibTest"
